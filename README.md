@@ -1,3 +1,4 @@
 # SkyrimFoodFight
-	This project was made beginning of the summer 2018
-	It is a fruitninja/skyrim inspired game. This project was made in 2 weeks.
+	This Fruitninja/Skyrim inspired game was made at the end of my first year of college (Summer 2018).
+	The development time was 2 weeks.
+	It has a MVC structure and makes use of JavaFX.
